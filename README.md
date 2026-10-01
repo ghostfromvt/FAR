@@ -1,2 +1,2 @@
 # FAR
-Da first game demo available.
+Da website. The demo will come later.
